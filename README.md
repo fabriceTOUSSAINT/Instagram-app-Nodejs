@@ -1,2 +1,7 @@
-# Instagram-app-Nodejs
-instagram webpage app clone built with NodeJS &amp; Express
+# Instagram Clone
+## Built with 
+
+* Node JS
+* Expres
+
+
